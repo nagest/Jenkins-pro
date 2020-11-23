@@ -1,7 +1,7 @@
 # Set the base image to Ubuntu12
 FROM nginx:latest
 
-# File Author / Maintainer
+# File Author / Maintainear
 MAINTAINER nagesh
 
 RUN apt-get update
