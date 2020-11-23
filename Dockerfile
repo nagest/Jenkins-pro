@@ -6,7 +6,7 @@ MAINTAINER nagesh
 
 RUN apt-get update
 
-# Download and Install Nginx
+# Download and Install Nginx service
 RUN apt-get install -y nginx
 
 # Expose ports
